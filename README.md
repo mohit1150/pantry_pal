@@ -155,3 +155,6 @@ Item.belongsTo(User, { foreignKey: 'userId' });
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Maintainer
+- Mohit Yadav (@mohit1150)
